@@ -3,3 +3,7 @@
 .idea
 catboost_info
 tests
+SampleSubmission.csv
+Train.csv
+Test.csv
+submissions
